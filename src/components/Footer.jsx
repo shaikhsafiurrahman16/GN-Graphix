@@ -176,7 +176,7 @@ const Footer = () => {
           <div className="flex items-center gap-1.5">
             <span>Developed by</span>
             <a
-              href="https://portfolio-rouge-sigma-59.vercel.app/"
+              href="https://safi-dev.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="font-bold text-gold-300 hover:text-gold-200 underline decoration-gold-500/40 hover:decoration-gold-300 transition-all inline-flex items-center gap-1"
