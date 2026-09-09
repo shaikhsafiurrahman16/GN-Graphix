@@ -150,7 +150,7 @@ const Contact = () => {
                 <div>
                   <span className="text-[11px] font-bold uppercase tracking-wider text-slate-400">Shop & Production Hours</span>
                   <p className="text-xs sm:text-sm font-semibold text-white">
-                    Monday – Saturday: 9:00 AM – 10:00 PM <br />
+                    Monday – Sunday: 11:00 AM – 12:00 PM <br />
                     <span className="text-xs text-gold-300 font-normal">WhatsApp 24/7 for urgent orders</span>
                   </p>
                 </div>
